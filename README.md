@@ -5,3 +5,4 @@
 - # " Romance always feels good only in movies "
 - # " You can't escape your pain you need to learn how to surf on the pain "
 - # " Focus on the main thing " 
+- # " Complexness and Difficulty exist because we make them for our own "
