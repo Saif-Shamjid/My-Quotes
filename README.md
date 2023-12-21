@@ -8,3 +8,5 @@
 - # " Complexness and Difficulty exist because we make them for our own "
 
 - # " Navigate the randomness of life with the resilience to surf on pain, for happiness is found in living, not defining; focus on what truly matters amidst the complexities we create. In the vast theater of existence, romance may be an illusion, but our choices echo in the randomness orchestrated by The higher power. "
+
+- # "communication-idea/thinking-perception-thinking based on perception-mindset-personality-what are you; wouldn't you take control of what you consume? "
